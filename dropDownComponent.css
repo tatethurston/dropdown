@@ -1,0 +1,16 @@
+#dropDownComponent li {
+  list-style: none
+}
+
+#dropDownComponent ul {
+  padding: 0;
+  margin-top: 5px;
+  width: 125px;
+}
+
+#dropDownComponent li:hover{
+  cursor: pointer;
+  font-weight: bold;
+  border: 1px solid black;
+}
+
